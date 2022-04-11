@@ -8,11 +8,11 @@ Heya! I'm Hosein Mohazebi, a dotnet developer who's currently live in isfahan, I
 
 <p>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40">
 </div>
 </p>
 
