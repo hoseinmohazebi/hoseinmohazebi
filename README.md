@@ -8,9 +8,11 @@ Heya! I'm Hosein Mohazebi, a dotnet developer who's currently live in isfahan, I
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
 </p>
 
